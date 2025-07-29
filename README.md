@@ -25,8 +25,8 @@ Esta é a lista oficial dos desenvolvedores que se juntaram a esta causa nobre.
 
 | Nome Completo         | Usuário no GitHub   | Superpoder com Git                            |
 | --------------------- | ------------------- | --------------------------------------------- |
-| **➡️ Seu Nome Aqui**   **➡️ @seu-usuario** | **➡️ Descreva aqui sua nova habilidade!**     |
-| PEGUIS                | PEGUISPG            | FIREBALL                                              |
+| **➡️ Seu Nome Aqui**  | **➡️ @seu-usuario** | **➡️ Descreva aqui sua nova habilidade!**     |
+| PEGUIS                | PEGUISPG            | FIREBALL                                      |
 |                       |                     |                                               |
 |                       |                     |                                               |
 
